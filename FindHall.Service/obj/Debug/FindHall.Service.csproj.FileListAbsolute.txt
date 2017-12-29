@@ -1,0 +1,15 @@
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Service.dll.config
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Service.dll
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Service.pdb
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Infastructure.dll
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Model.dll
+C:\Other project\FindHallWebApi\FindHall.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Infastructure.pdb
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Infastructure.dll.config
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Model.pdb
+C:\Other project\FindHallWebApi\FindHall.Service\bin\FindHall.Model.dll.config
+C:\Other project\FindHallWebApi\FindHall.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Other project\FindHallWebApi\FindHall.Service\obj\Debug\FindHall.Service.csprojResolveAssemblyReference.cache
+C:\Other project\FindHallWebApi\FindHall.Service\obj\Debug\FindHall.Service.csproj.CoreCompileInputs.cache
+C:\Other project\FindHallWebApi\FindHall.Service\obj\Debug\FindHall.Service.dll
+C:\Other project\FindHallWebApi\FindHall.Service\obj\Debug\FindHall.Service.pdb

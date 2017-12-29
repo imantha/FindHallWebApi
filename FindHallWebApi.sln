@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Api", "1.Api", "{DDEEC7F6-4E31-4F0D-9F15-AAF2258FB880}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Service", "2.Service", "{92B2535E-0ECC-412D-B4E6-68D760CCBFA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHall.Service", "FindHall.Service\FindHall.Service.csproj", "{AB750D73-918C-48CB-AABB-6499CA495F27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Model", "3.Model", "{807C50DD-8C4D-4519-8191-60F864D1288B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHall.Model", "FindHall.Model\FindHall.Model.csproj", "{EE2658EE-3CD8-4611-8DEA-628BF1289E91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infastructure", "4.Infastructure", "{821E890F-43EE-4223-BC7A-7BD1523D21A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHall.Infastructure", "FindHall.Infastructure\FindHall.Infastructure.csproj", "{5E26186F-823A-46A9-9927-781B6B297758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHallWebApi", "FindHallWebApi\FindHallWebApi.csproj", "{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB750D73-918C-48CB-AABB-6499CA495F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB750D73-918C-48CB-AABB-6499CA495F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB750D73-918C-48CB-AABB-6499CA495F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB750D73-918C-48CB-AABB-6499CA495F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2658EE-3CD8-4611-8DEA-628BF1289E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2658EE-3CD8-4611-8DEA-628BF1289E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2658EE-3CD8-4611-8DEA-628BF1289E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2658EE-3CD8-4611-8DEA-628BF1289E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E26186F-823A-46A9-9927-781B6B297758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E26186F-823A-46A9-9927-781B6B297758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E26186F-823A-46A9-9927-781B6B297758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E26186F-823A-46A9-9927-781B6B297758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB750D73-918C-48CB-AABB-6499CA495F27} = {92B2535E-0ECC-412D-B4E6-68D760CCBFA9}
+		{EE2658EE-3CD8-4611-8DEA-628BF1289E91} = {807C50DD-8C4D-4519-8191-60F864D1288B}
+		{5E26186F-823A-46A9-9927-781B6B297758} = {821E890F-43EE-4223-BC7A-7BD1523D21A2}
+		{9B4DE165-F82D-4990-9215-AC4FE2FC3DB4} = {DDEEC7F6-4E31-4F0D-9F15-AAF2258FB880}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C242C23B-145F-454C-9DB3-89F439794506}
+	EndGlobalSection
+EndGlobal

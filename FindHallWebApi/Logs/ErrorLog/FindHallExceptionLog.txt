@@ -1,0 +1,247 @@
+
+Log Entry : ::1 ::1 11:31:47 AM Sunday, November 19, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : ,
+ @OthVal : ,
+ @ErrMsg : Cannot open database "BLPMData" requested by the login. The login failed.
+Login failed for user 'PEROOT\VSHALIM'.,
+ @ObjKy : 1,
+ @InsertDt : 11/19/2017 11:31:37 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Cannot open database "BLPMData" requested by the login. The login failed.
+Login failed for user 'PEROOT\VSHALIM'.
+-------------------------------
+
+Log Entry : ::1 ::1 11:36:15 AM Sunday, November 19, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : ,
+ @OthVal : ,
+ @ErrMsg : Cannot open database "BLPMData" requested by the login. The login failed.
+Login failed for user 'PEROOT\VSHALIM'.,
+ @ObjKy : 1,
+ @InsertDt : 11/19/2017 11:36:15 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Cannot open database "BLPMData" requested by the login. The login failed.
+Login failed for user 'PEROOT\VSHALIM'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:14:11 AM Thursday, December 7, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAllHAllDetails,
+ @OthVal : ,
+ @ErrMsg : Procedure or function 'GetAllHAllDetails' expects parameter '@name', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/7/2017 9:14:11 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:33:35 PM Saturday, December 9, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedDetails,
+ @OthVal : @city : sydney,
+ @street : test1,
+ @hall : test1.
+ ,
+ @ErrMsg : Could not find stored procedure 'GetSelectedDetails'.,
+ @ObjKy : 1,
+ @InsertDt : 12/9/2017 8:33:35 PM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:33:47 PM Saturday, December 9, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedDetails,
+ @OthVal : @city : sydney,
+ @street : test1,
+ @hall : ''.
+ ,
+ @ErrMsg : Could not find stored procedure 'GetSelectedDetails'.,
+ @ObjKy : 1,
+ @InsertDt : 12/9/2017 8:33:47 PM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:36:10 PM Saturday, December 9, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedHAllDetails,
+ @OthVal : @city : sydney,
+ @street : test1,
+ @hall : test1.
+ ,
+ @ErrMsg : Procedure or function 'GetSelectedHAllDetails' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/9/2017 8:36:10 PM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:38:19 PM Saturday, December 9, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedHAllDetails,
+ @OthVal : @city : sydney,
+ @street : st1,
+ @hall : st1.
+ ,
+ @ErrMsg : Procedure or function 'GetSelectedHAllDetails' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/9/2017 8:38:19 PM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 1:36:30 AM Sunday, December 10, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedHAllDetails,
+ @OthVal : @city : Sydney,
+ @street : LiverPool,
+ @hall : LiverPool.
+ ,
+ @ErrMsg : Procedure or function 'GetSelectedHAllDetails' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/10/2017 1:36:30 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 1:39:00 AM Sunday, December 10, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetSelectedHAllDetails,
+ @OthVal : @city : null,
+ @street : null,
+ @hall : %.
+ ,
+ @ErrMsg : Procedure or function 'GetSelectedHAllDetails' expects parameter '@city', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/10/2017 1:39:00 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:56:08 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAvailabilityPeriod,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetAvailabilityPeriod' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 8:56:08 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:56:43 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetBookingdates,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetBookingdates' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 8:56:43 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 8:59:23 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAvailabilityPeriod,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetAvailabilityPeriod' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 8:59:23 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:00:35 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAvailabilityPeriod,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetAvailabilityPeriod' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:00:35 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:00:51 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetBookingdates,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetBookingdates' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:00:51 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:01:20 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAvailabilityPeriod,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetAvailabilityPeriod' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:01:20 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:01:21 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetBookingdates,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetBookingdates' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:01:21 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:06:22 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetAvailabilityPeriod,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetAvailabilityPeriod' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:06:22 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
+
+Log Entry : ::1 ::1 9:06:23 AM Wednesday, December 27, 2017
+  :
+  :SP Name : ErrLog_Insert, Parameters with value : @SPNm : GetBookingdates,
+ @OthVal : @hall : null.
+ ,
+ @ErrMsg : Procedure or function 'GetBookingdates' expects parameter '@hall', which was not supplied.,
+ @ObjKy : 1,
+ @InsertDt : 12/27/2017 9:06:23 AM,
+ @UsrKy : 1,
+ @DeviceKy : 1.
+ ErrMsg : Could not find stored procedure 'ErrLog_Insert'.
+-------------------------------
